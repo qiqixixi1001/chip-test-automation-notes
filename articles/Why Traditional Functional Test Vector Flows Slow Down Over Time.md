@@ -1,3 +1,5 @@
+# Why Traditional Functional Test Vector Flows Slow Down Over Time
+
 **Author:** Darren H. Chen  
 **Focus:** Chip Test Automation / JTAG / ATE / Verification Acceleration / EDA Tool Development
 
